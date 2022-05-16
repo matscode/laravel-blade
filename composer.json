@@ -22,5 +22,7 @@
         "allow-plugins": {
             "kylekatarnls/update-helper": false
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
